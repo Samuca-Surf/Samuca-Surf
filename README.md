@@ -73,29 +73,32 @@
 ---
 # 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=samuca-surf&show_icons=true&theme=tokyonight"
-    alt="samuca-surf Github Stats"
-  />
-
-  <!--<img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuca-surf&layout=compact&theme=tokyonight"
-  />-->
-
-</p>
-
----
-
-# 🔥 Streak Stats
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=samuca-surf&theme=tokyonight"
-  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=samuca-surf&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuca-surf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://streak-stats.demolab.com?user=samuca-surf&theme=tokyonight"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -109,9 +112,36 @@
 ---
 
 # 🌎 Contato
+<br>
 
-<p align="left">
-  <a href="https://github.com/samuca-surf">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<!-- GitHub -->
+<a href="https://github.com/samuca-surf" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
+    alt="GitHub"
+  />
+</a>
+
+<!-- Email -->
+<a href="mailto:samuel.lkm.dev@gmail.com" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Email"
+  />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/samuel-eduardo-da-luz-kohler-mesquita-554bbb322/" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+    alt="LinkedIn"
+  />
+</a>
+
+<!-- Instagram -->
+<a href="https://instagram.com/SEUUSUARIO" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+    alt="Instagram"
+  />
+</a>
