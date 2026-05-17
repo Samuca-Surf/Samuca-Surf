@@ -1,4 +1,4 @@
-# Hi 👋, I'm Samuel
+# Olá 👋, Eu sou o Samuel
 
 ### Backend Developer • Spring Boot • Linux • Cybersecurity
 
@@ -77,12 +77,14 @@
   <img 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=samuca-surf&show_icons=true&theme=tokyonight"
+    alt="samuca-surf Github Stats"
   />
 
-  <img 
+  <!--<img 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuca-surf&layout=compact&theme=tokyonight"
-  />
+  />-->
+
 </p>
 
 ---
