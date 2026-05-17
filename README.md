@@ -133,7 +133,8 @@
 
 # 🚀 Projetos
 - 🌐 APIs REST com Spring Boot
-- 📅 Sistemas de agendamento
+<!-- - 📅 Sistemas de agendamento -->
+- 🌐 Sistema frontend com Vue
 - 🎮 Projetos Unity
 - 🐧 Ferramentas Linux
 - 🔐 Ferramentas de cibersegurança
