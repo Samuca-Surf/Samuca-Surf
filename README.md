@@ -169,7 +169,7 @@
 </a>
 
 <!-- Instagram -->
-<a href="https://instagram.com/SEUUSUARIO" target="_blank">
+<a href="https://www.instagram.com/samuel_l_k_m" target="_blank">
   <img 
     src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
     alt="Instagram"
