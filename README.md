@@ -1,177 +1,106 @@
-# Olá 👋, Eu sou o Samuel
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=header&text=Samuel%20Eduardo&fontSize=40&fontColor=ffffff"/>
 
-### Backend Developer • Spring Boot • Linux • Cybersecurity
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=samuca-surf&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Developer;Spring+Boot+%7C+Java;Linux+%7C+Cybersecurity;Vue.js+%7C+TypeScript;Always+Learning+Something+New"/>
+
+</div>
+
+<h1 align="center">Olá 👋, Eu sou o Samuel</h1>
+
+<h3 align="center">Backend Developer • Spring Boot • Linux • Cybersecurity 🇧🇷</h3>
+
+<p align="center">
+Apaixonado por desenvolvimento backend, sistemas web, Linux, segurança da informação e novas tecnologias.
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=samuca-surf&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</div>
+
+<br>
 
 ---
 
 # 🚀 Tecnologias
 
-## ⚙️ Backend
+<div align="center">
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img width="10"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
-  <img width="10"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
-  <img width="10"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img width="10"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img width="10"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,cs,cpp,vue,js,ts,html,css,bootstrap,tailwind,postgres,mysql,mongodb,linux,git,github,unity,blender"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  
-</p>
+</div>
 
 ---
 
-## 🌐 Frontend
+# 📊 GitHub Activity
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40"/>
-  <img width="10"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="10"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img width="10"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img width="10"/>
+<div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img width="10"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuca-surf&theme=tokyonight"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-  <img width="10"/>
+</div>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
-</p>
+<br>
 
----
-## 🗄️ Database
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img width="10" />
+<div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img width="10" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=samuca-surf&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img width="10" />
-</p>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuca-surf&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=samuca-surf&theme=tokyonight"/>
+
+</div>
 
 ---
 
-## 🛠️ Tools
+<div align="center">
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img width="10"/>
-  
-  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img width="10"/>-->
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img width="10"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img width="10"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40"/>
-  <img width="10"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40"/>
-</p>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
-
-
-
-
-
----
-# 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=samuca-surf&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuca-surf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://streak-stats.demolab.com?user=samuca-surf&theme=tokyonight"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
 # 🚀 Projetos
-- 🌐 APIs REST com Spring Boot
-<!-- - 📅 Sistemas de agendamento -->
-- 🌐 Sistema frontend com Vue
-- 🎮 Projetos Unity
-- 🐧 Ferramentas Linux
-- 🔐 Ferramentas de cibersegurança
+
+* 🌐 APIs REST com Spring Boot
+* 🖥️ Sistemas Backend escaláveis
+* 🌐 Aplicações Web com Vue.js
+* 🎮 Projetos com Unity
+* 🐧 Ferramentas para Linux
+* 🔐 Ferramentas de Cybersecurity
 
 ---
 
 # 🌎 Contato
+
+<div align="center">
+
+<a href="https://github.com/samuca-surf">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:samuel.lkm.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/samuel-eduardo-da-luz-kohler-mesquita-554bbb322/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/samuel_l_k_m">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
 <br>
 
-<!-- GitHub -->
-<a href="https://github.com/samuca-surf" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
-    alt="GitHub"
-  />
-</a>
-
-<!-- Email -->
-<a href="mailto:samuel.lkm.dev@gmail.com" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-    alt="Email"
-  />
-</a>
-
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/samuel-eduardo-da-luz-kohler-mesquita-554bbb322/" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-    alt="LinkedIn"
-  />
-</a>
-
-<!-- Instagram -->
-<a href="https://www.instagram.com/samuel_l_k_m" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-    alt="Instagram"
-  />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
